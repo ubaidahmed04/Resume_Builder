@@ -168,11 +168,11 @@ const ResumeForm = () => {
             Edit 
           </Button>
         </span>
-        {/* <span>
+        <span>
           <Button fullWidth type="submit" className="ml-auto w-44 h-12 bg-green-400 text-black">
             Download  
           </Button>
-        </span> */}
+        </span>
         
       </span>
       <span>
