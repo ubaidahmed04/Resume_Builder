@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
         </main>
         <Footer/>
       </body>
-      <script src="html2pdf.bundle.min.js"></script>
+      {/* <script src="html2pdf.bundle.min.js"></script> */}
     </html>
   );
 }
